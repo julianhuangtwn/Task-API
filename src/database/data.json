@@ -144,12 +144,6 @@
       "name": "Christopher Davis",
       "email": "chris@email.com",
       "password": "05347a0e4ed2466a16ad32a13af3d8f18f6220adde2f59d438a1e6a5bf37a56f"
-    },
-    {
-      "id": "ad962893-6f51-41ed-bac6-25db96fbb4b5",
-      "name": "John Doe",
-      "email": "johndoe@example.com",
-      "password": "$2b$10$bJDM0QfpeuJxa1S.0vZ8Q.6eLK8GhSyKBrx/lRwWgjjuAreQIDKAS"
     }
   ],
   "logs": [
