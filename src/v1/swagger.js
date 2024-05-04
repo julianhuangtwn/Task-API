@@ -10,7 +10,11 @@ const options = {
     info: { 
       version: "1.3.0",
       title: "Task Scheduling API", 
-      description: "API allowing Users to write and view tasks, users must first register and login. Upon login, JWT token is provided; all operations on Tasks and Logs require the token.",
+      description: `This is an API that uses simple CRUD operations on tasks and logs. 
+      The API uses JWT tokens for authentication, hence Users must first register their info, then login to get their token. 
+      The token is to be provided in the header of every request, then can perform the CRUD operations.
+      Users that don't have a token will be met with the error message: "No token provided".
+      Each User can only view their own tasks and logs.`,
     },
     components: {
       schemas: {
