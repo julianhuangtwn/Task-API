@@ -15,6 +15,9 @@ const PORT = process.env.PORT || 3000;
 app.use(bodyParser.json());
 
 //Routes for API
+app.get("/", (req, res) => {
+    res.redirect("/api/v1/docs");
+})
 app.use("/api/v1/tasks", router_v1);
 app.use("/api/v1/user", authRouter)
 
