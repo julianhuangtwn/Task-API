@@ -1,0 +1,338 @@
+{
+  "tasks": [
+    {
+      "id": "a2d40fe7-dad1-4451-862d-0e5e91d4f226",
+      "userID": "f2c451d7-37b2-4c6e-943f-64d7596d63ac",
+      "title": "Finish Math Homework",
+      "description": "Complete Assignment 2 for math class",
+      "createdAt": "4/5/2022, 4:30:00 PM",
+      "updatedAt": "4/6/2022, 5:23:06 PM",
+      "dueDate": "4/20/2022, 11:59:59 PM",
+      "priority": "Medium",
+      "notes": [
+        "Ask teacher for clarification on question 5"
+      ],
+      "itemsNeeded": [
+        "Math Textbook",
+        "Calculator",
+        "Notebook",
+        "Pencil",
+        "Paper"
+      ]
+    },
+    {
+      "id": "b8634b94-5aa5-4aa2-bb9d-0bf1e015fabb",
+      "userID": "743d96bb-dc8d-45b5-bf69-9db0e3b17b1a",
+      "title": "Grocery Shopping",
+      "description": "Get groceries for next week.",
+      "createdAt": "4/10/2022, 4:30:00 PM",
+      "updatedAt": null,
+      "dueDate": "4/15/2022, 5:00:00 PM",
+      "priority": "High",
+      "notes": [
+        "Milk, Eggs, Veggies, Bread, Cheese",
+        "Ask Dan if he wants anything"
+      ],
+      "itemsNeeded": null
+    },
+    {
+      "id": "e1e2f3d4-a5b6-c7d8-e9f0-123456789abc",
+      "userID": "2eab4f69-657b-4688-8ef8-d0ac7d8b4be9",
+      "title": "Schedule Dentist Appointment",
+      "description": "Book an appointment for a checkup",
+      "createdAt": "4/20/2022, 9:00:00 PM",
+      "updatedAt": null,
+      "dueDate": "4/30/2022, 9:00:00 AM",
+      "priority": "Low",
+      "notes": [
+        "Check dental insurance coverage before scheduling",
+        "Morning or after school hours"
+      ],
+      "itemsNeeded": [
+        "Dental insurance card"
+      ]
+    },
+    {
+      "userID": "9d89c58f-95b1-4a38-b59b-73eb624d80cd",
+      "title": "Attend Teams Meeting",
+      "description": "Teams meeting with boss",
+      "dueDate": "4/18/2022, 11:00:00 AM",
+      "priority": "High",
+      "notes": [
+        "Share last week's presentation"
+      ],
+      "itemsNeeded": [
+        "Presentation"
+      ],
+      "id": "97fb4ac3-7bdb-4469-84a7-497d863129b9",
+      "createdAt": "3/21/2024, 12:20:47 AM",
+      "updatedAt": "3/21/2024, 12:20:47 AM"
+    },
+    {
+      "userID": "820ddb7b-d954-48ac-80bf-d2c3f0d55460",
+      "title": "Finish RESTful API",
+      "description": "Finish implementing API project",
+      "dueDate": "3/24/2022, 5:00:00 PM",
+      "priority": "High",
+      "id": "de7a4da6-26da-4d9d-b501-46a28c55c811",
+      "createdAt": "3/23/2024, 7:21:51 PM",
+      "updatedAt": "3/23/2024, 10:36:14 PM",
+      "notes": [
+        "Note"
+      ]
+    },
+    {
+      "title": "Buy groceries",
+      "description": "Buy groceries for the next 2 weeks",
+      "dueDate": "2024-04-12T02:02:13.530Z",
+      "priority": "Medium",
+      "notes": [
+        "Milk, Eggs, Veggies, Bread, Cheese",
+        "Ask Dan if he wants anything"
+      ],
+      "itemsNeeded": [
+        "Shopping bag",
+        "Bus pass",
+        "Cash"
+      ],
+      "id": "8c33ee78-867a-446f-9a40-23807f373a4b",
+      "userID": "9d642a87-51bc-404d-9fff-434bed0283b7",
+      "createdAt": "4/11/2024, 10:02:32 PM",
+      "updatedAt": "4/11/2024, 10:02:32 PM"
+    },
+    {
+      "title": "Buy groceries",
+      "description": "Buy",
+      "dueDate": "2024-04-14T22:40:10.342Z",
+      "priority": "Medium",
+      "notes": [
+        "Milk, Eggs, Veggies, Bread, Cheese",
+        "Ask Dan if he wants anything"
+      ],
+      "itemsNeeded": [
+        "Shopping bag",
+        "Bus pass",
+        "Cash"
+      ],
+      "id": "cf530e22-d4a3-4adb-a5d5-6bfd0dca7347",
+      "userID": "ad962893-6f51-41ed-bac6-25db96fbb4b5",
+      "createdAt": "4/14/2024, 7:01:59 PM",
+      "updatedAt": "4/15/2024, 4:14:04 AM"
+    }
+  ],
+  "users": [
+    {
+      "id": "f2c451d7-37b2-4c6e-943f-64d7596d63ac",
+      "name": "Emily Johnson",
+      "email": "emily@email.com",
+      "password": "e1f7bfe66b94fb4c8af7b65ad2d8f7f048f4eb6c09f4fc25f465ddc0b632098d"
+    },
+    {
+      "id": "743d96bb-dc8d-45b5-bf69-9db0e3b17b1a",
+      "name": "Michael Smith",
+      "email": "michael@email.com",
+      "password": "3a924546e7a2e78e2962f2306f3074c85a7de82c8f29ff6b25f02b7e27e66fc0"
+    },
+    {
+      "id": "2eab4f69-657b-4688-8ef8-d0ac7d8b4be9",
+      "name": "Sophia Brown",
+      "email": "sophia@email.com",
+      "password": "7b8b5a91dc6a2d8e40979d51b6cd5c8a9cd3f72e1681c665c65c87d69dfb24d1"
+    },
+    {
+      "id": "9d89c58f-95b1-4a38-b59b-73eb624d80cd",
+      "name": "Christopher Davis",
+      "email": "chris@email.com",
+      "password": "05347a0e4ed2466a16ad32a13af3d8f18f6220adde2f59d438a1e6a5bf37a56f"
+    },
+    {
+      "id": "ad962893-6f51-41ed-bac6-25db96fbb4b5",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "$2b$10$bJDM0QfpeuJxa1S.0vZ8Q.6eLK8GhSyKBrx/lRwWgjjuAreQIDKAS"
+    }
+  ],
+  "logs": [
+    {
+      "taskID": "a2d40fe7-dad1-4451-862d-0e5e91d4f226",
+      "timestamp": "4/5/2022, 4:30:00 PM",
+      "action": "Task 'Finish Math Homework' created."
+    },
+    {
+      "taskID": "b8634b94-5aa5-4aa2-bb9d-0bf1e015fabb",
+      "timestamp": "4/10/2022, 4:30:00 PM",
+      "action": "Task 'Grocery Shopping' created."
+    },
+    {
+      "taskID": "e1e2f3d4-a5b6-c7d8-e9f0-123456789abc",
+      "timestamp": "4/20/2022, 9:00:00 PM",
+      "action": "Task 'Schedule Dentist Appointment' created."
+    },
+    {
+      "taskID": "97fb4ac3-7bdb-4469-84a7-497d863129b9",
+      "timestamp": "4/18/2022, 11:00:00 AM",
+      "action": "Task 'Attend Teams Meeting' created."
+    },
+    {
+      "taskID": "de7a4da6-26da-4d9d-b501-46a28c55c811",
+      "timestamp": "3/24/2022, 5:00:00 PM",
+      "action": "Task 'Finish RESTful API' created."
+    },
+    {
+      "taskID": "65a5d6df-eed9-4081-8761-4ac4d95c3fc1",
+      "timestamp": "4/5/2024, 12:42:15 AM",
+      "action": "Task 'Call mom' created."
+    },
+    {
+      "taskID": "65a5d6df-eed9-4081-8761-4ac4d95c3fc1",
+      "timestamp": "4/5/2024, 1:36:38 AM",
+      "action": "Task 'Call mom and dad' updated: \"title\" -> \"Call mom and dad\", \"description\" -> \"Call mom and dad\", \"dueDate\" -> \"4/6/2022, 7:00:00 PM\", \"priority\" -> \"High\""
+    },
+    {
+      "taskID": "65a5d6df-eed9-4081-8761-4ac4d95c3fc1",
+      "timestamp": "4/5/2024, 2:09:08 AM",
+      "action": "Task 'Call mom and dad' updated: \"priority\" -> \"High\""
+    },
+    {
+      "taskID": "65a5d6df-eed9-4081-8761-4ac4d95c3fc1",
+      "timestamp": "4/5/2024, 2:23:11 AM",
+      "action": "Task 'Call mom and dad' deleted."
+    },
+    {
+      "taskID": "8c33ee78-867a-446f-9a40-23807f373a4b",
+      "timestamp": "4/11/2024, 10:02:32 PM",
+      "action": "Task 'Buy groceries' created."
+    },
+    {
+      "taskID": "add4e3bd-00c1-4da2-b40e-c302dfe5bf9a",
+      "timestamp": "4/12/2024, 1:38:26 AM",
+      "action": "Task 'Buy groceries 2' created."
+    },
+    {
+      "taskID": "add4e3bd-00c1-4da2-b40e-c302dfe5bf9a",
+      "timestamp": "4/12/2024, 1:41:04 AM",
+      "action": "Task 'Buy groceries' updated: \"title\" -> \"Buy groceries\", \"description\" -> \"Buy groceries for the next 3 weeks\", \"dueDate\" -> \"2024-04-12T05:40:55.664Z\", \"priority\" -> \"Medium\", \"notes\" -> \"Milk, Eggs, Veggies, Bread, Cheese,Ask Dan if he wants anything\", \"itemsNeeded\" -> \"Shopping bag,Bus pass,Cash\""
+    },
+    {
+      "taskID": "add4e3bd-00c1-4da2-b40e-c302dfe5bf9a",
+      "timestamp": "4/12/2024, 1:42:06 AM",
+      "action": "Task 'Buy groceries' deleted."
+    },
+    {
+      "taskID": "209825f4-dac5-4b3b-8d5f-605e15551227",
+      "timestamp": "4/12/2024, 1:58:39 AM",
+      "action": "Task 'Teat' created."
+    },
+    {
+      "taskID": "209825f4-dac5-4b3b-8d5f-605e15551227",
+      "timestamp": "4/12/2024, 1:59:52 AM",
+      "action": "Task 'Teat' updated: \"title\" -> \"Testing\""
+    },
+    {
+      "taskID": "209825f4-dac5-4b3b-8d5f-605e15551227",
+      "timestamp": "4/12/2024, 2:00:20 AM",
+      "action": "Task 'Testing' updated: "
+    },
+    {
+      "taskID": "209825f4-dac5-4b3b-8d5f-605e15551227",
+      "timestamp": "4/12/2024, 2:01:00 AM",
+      "action": "Task 'Testing' deleted."
+    },
+    {
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b",
+      "timestamp": "4/14/2024, 7:00:41 PM",
+      "action": "Task 'Buy groceries' created."
+    },
+    {
+      "taskID": "cf530e22-d4a3-4adb-a5d5-6bfd0dca7347",
+      "timestamp": "4/14/2024, 7:01:59 PM",
+      "action": "Task 'Buy groceries 2' created."
+    },
+    {
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b",
+      "timestamp": "4/14/2024, 7:04:21 PM",
+      "action": "Task 'Buy groceries' updated: [title -> Buy], [description -> Buy groceries for the next 2 weeks], [notes -> ], [itemsNeeded -> ]"
+    },
+    {
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b",
+      "timestamp": "4/14/2024, 7:04:31 PM",
+      "action": "Task 'Buy' updated: "
+    },
+    {
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b",
+      "timestamp": "4/14/2024, 7:06:13 PM",
+      "action": "Task 'Buy' updated: "
+    },
+    {
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b",
+      "timestamp": "4/14/2024, 7:06:31 PM",
+      "action": "Task 'Buy' updated: "
+    },
+    {
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b",
+      "timestamp": "4/14/2024, 7:06:55 PM",
+      "action": "Task 'Buy' updated: "
+    },
+    {
+      "timestamp": "4/14/2024, 7:33:19 PM",
+      "action": "Task 'Buy' updated: [title -> Buy groceries], [description -> Buy groceries for the next 2 weeks]"
+    },
+    {
+      "timestamp": "4/14/2024, 7:34:15 PM",
+      "action": "Task 'Buy groceries' updated: [title -> Buy groceries], [description -> Buy groceries for the next 2 weeks]"
+    },
+    {
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b",
+      "timestamp": "4/14/2024, 7:35:14 PM",
+      "action": "Task 'Buy groceries' updated: [title -> Buy groceries], [description -> Buy groceries for the next 2 weeks]"
+    },
+    {
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b",
+      "timestamp": "4/14/2024, 7:35:53 PM",
+      "action": "Task 'Buy groceries' deleted."
+    },
+    {
+      "taskID": "cf530e22-d4a3-4adb-a5d5-6bfd0dca7347",
+      "timestamp": "4/14/2024, 7:41:57 PM",
+      "action": "Task 'Buy groceries 2' updated: , "
+    },
+    {
+      "taskID": "cf530e22-d4a3-4adb-a5d5-6bfd0dca7347",
+      "timestamp": "4/14/2024, 7:43:10 PM",
+      "action": "Task 'Buy groceries' updated: , "
+    },
+    {
+      "taskID": "cf530e22-d4a3-4adb-a5d5-6bfd0dca7347",
+      "timestamp": "4/14/2024, 7:44:06 PM",
+      "action": "Task 'Buy groceries' updated: [Buy groceries -> Buy groceries], [Buy groceries for the next 2 weeks -> Buy groceries for the next 2 weeks]"
+    },
+    {
+      "taskID": "cf530e22-d4a3-4adb-a5d5-6bfd0dca7347",
+      "timestamp": "4/14/2024, 7:44:40 PM",
+      "action": "Task 'Buy groceries' updated: [Buy groceries -> Buy], [Buy groceries for the next 2 weeks -> Buy]"
+    },
+    {
+      "taskID": "cf530e22-d4a3-4adb-a5d5-6bfd0dca7347",
+      "timestamp": "4/15/2024, 4:14:05 AM",
+      "action": "Task 'Buy' updated: [Buy -> Buy groceries]"
+    }
+  ],
+  "pastTasks": [
+    {
+      "userID": "820ddb7b-d954-48ac-80bf-d2c3f0d55460",
+      "taskID": "65a5d6df-eed9-4081-8761-4ac4d95c3fc1"
+    },
+    {
+      "userID": "9d642a87-51bc-404d-9fff-434bed0283b7",
+      "taskID": "add4e3bd-00c1-4da2-b40e-c302dfe5bf9a"
+    },
+    {
+      "userID": "64054777-7edb-473d-b7e9-234f84d09562",
+      "taskID": "209825f4-dac5-4b3b-8d5f-605e15551227"
+    },
+    {
+      "userID": "ad962893-6f51-41ed-bac6-25db96fbb4b5",
+      "taskID": "273c3921-7b1d-457e-9dd0-4da75903d27b"
+    }
+  ]
+}
