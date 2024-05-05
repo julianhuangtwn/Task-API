@@ -14,7 +14,7 @@ This is an API that uses simple CRUD operations on tasks and logs.
 The API is hosted through Render and interacted via Swagger.
 
 
-      Visit the site https://task-api-6o4j.onrender.com
+- Visit the site [https://task-api-6o4j.onrender.com](https://task-api-6o4j.onrender.com)
 
 **User**
 
