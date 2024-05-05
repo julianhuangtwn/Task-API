@@ -67,57 +67,6 @@
       "id": "97fb4ac3-7bdb-4469-84a7-497d863129b9",
       "createdAt": "3/21/2024, 12:20:47 AM",
       "updatedAt": "3/21/2024, 12:20:47 AM"
-    },
-    {
-      "userID": "820ddb7b-d954-48ac-80bf-d2c3f0d55460",
-      "title": "Finish RESTful API",
-      "description": "Finish implementing API project",
-      "dueDate": "3/24/2022, 5:00:00 PM",
-      "priority": "High",
-      "id": "de7a4da6-26da-4d9d-b501-46a28c55c811",
-      "createdAt": "3/23/2024, 7:21:51 PM",
-      "updatedAt": "3/23/2024, 10:36:14 PM",
-      "notes": [
-        "Note"
-      ]
-    },
-    {
-      "title": "Buy groceries",
-      "description": "Buy groceries for the next 2 weeks",
-      "dueDate": "2024-04-12T02:02:13.530Z",
-      "priority": "Medium",
-      "notes": [
-        "Milk, Eggs, Veggies, Bread, Cheese",
-        "Ask Dan if he wants anything"
-      ],
-      "itemsNeeded": [
-        "Shopping bag",
-        "Bus pass",
-        "Cash"
-      ],
-      "id": "8c33ee78-867a-446f-9a40-23807f373a4b",
-      "userID": "9d642a87-51bc-404d-9fff-434bed0283b7",
-      "createdAt": "4/11/2024, 10:02:32 PM",
-      "updatedAt": "4/11/2024, 10:02:32 PM"
-    },
-    {
-      "title": "Buy groceries",
-      "description": "Buy",
-      "dueDate": "2024-04-14T22:40:10.342Z",
-      "priority": "Medium",
-      "notes": [
-        "Milk, Eggs, Veggies, Bread, Cheese",
-        "Ask Dan if he wants anything"
-      ],
-      "itemsNeeded": [
-        "Shopping bag",
-        "Bus pass",
-        "Cash"
-      ],
-      "id": "cf530e22-d4a3-4adb-a5d5-6bfd0dca7347",
-      "userID": "ad962893-6f51-41ed-bac6-25db96fbb4b5",
-      "createdAt": "4/14/2024, 7:01:59 PM",
-      "updatedAt": "4/15/2024, 4:14:04 AM"
     }
   ],
   "users": [
