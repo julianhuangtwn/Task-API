@@ -15,6 +15,7 @@ The API is hosted through Render and interacted via Swagger.
 
 
 - Visit the site [https://task-api-6o4j.onrender.com](https://task-api-6o4j.onrender.com)
+  - Note: The website may take a minute to load
 
 **User**
 
